@@ -20,7 +20,7 @@ Class repository for CS100 at Illinois Tech
 
 **Grading:**
 
-200 points - [Assignments](https://github.com/iit-cs579/assignments) (4 @ 50 points each)  
+200 points - [Assignments](https://github.com/iit-cs100/assignments) (4 @ 50 points each)  
 100 points - Class Participation / In-class activities  
 100 points - Research Paper  
 **400 total points**
