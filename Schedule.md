@@ -12,7 +12,7 @@
 | 09/12  | *Debate*                     |                               |               |              |
 | 09/17  | Complexity                 |                               |               |              |
 | 09/19  | *Lab: Complexity*            |                               |               |              |
-| 09/24  | Data                       |                               | A2            |              |
+| 09/24  | guest                       |                               | A2            |              |
 | 09/26  | *Debate*                     |                               |               |              |
 | 10/01  | Data                       |                               |               |              |
 | 10/03  | *Lab : Data*                 |                               |               |              |
