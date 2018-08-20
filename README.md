@@ -33,6 +33,10 @@ Class repository for CS100 at Illinois Tech
 | 69-60       | D         |
 | < 60        | E         |
 
+** In-class activities:**  
+- **Labs:** Individual or group work exploring ideas in computational thinking
+- **Debates:** student-led discussion of current topics in computer science and society
+
 **Grade disputes**
 - Any questions about the grading of an assignment or test must be made **within 7 days** of the receipt of the grade. Questions will not be considered after this date.
 
