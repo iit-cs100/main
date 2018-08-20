@@ -33,7 +33,7 @@ Class repository for CS100 at Illinois Tech
 | 69-60       | D         |
 | < 60        | E         |
 
-** In-class activities:**  
+**In-class activities:**  
 - **Labs:** Individual or group work exploring ideas in computational thinking
 - **Debates:** student-led discussion of current topics in computer science and society
 
@@ -53,6 +53,8 @@ Class repository for CS100 at Illinois Tech
 - Late assignments will **not** be accepted, unless:
   - There is an unavoidable medical, family, or other emergency; **and**
   - You notify me **prior** to the due date.
+  
+  **Bonus policy**: there are no bonus points!
 
 **Objectives:**
 1. Form a community of students and faculty in the CS dept.
