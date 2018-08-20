@@ -54,7 +54,7 @@ Class repository for CS100 at Illinois Tech
   - There is an unavoidable medical, family, or other emergency; **and**
   - You notify me **prior** to the due date.
   
-  **Bonus policy**: there are no bonus points!
+**Bonus policy**: there are no bonus points!
 
 **Objectives:**
 1. Form a community of students and faculty in the CS dept.
