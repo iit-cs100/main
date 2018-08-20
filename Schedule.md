@@ -3,8 +3,8 @@
 | Date   | Topic                      | Readings                      | Due           | Lecture      |
 | ------ |----------------------------|-------------------------------|---------------|--------------|
 | 08/20  | What/Why CS?               |                               |               |              |
-| 08/22  | *Lab: Computational Thinking* |                               |               |              |
-| 08/27  | Functions and Algorithms   |                               |             |              |
+| 08/22  | *Lab: Computational Thinking* | [[1]](http://robpatro.com/blog/?p=207) [[2]](https://www2.lawrence.edu/fast/krebsbak/Research/Publications/pdf/fecs15.pdf)                              |               |              |
+| 08/27  | Functions and Algorithms   | 1.3-1.6 [here](http://interactivepython.org/runestone/static/pythonds/index.html)                              |             |              |
 | 08/29  | *Lab: Algorithms*            |                               | [A1](assignments/a1/)              |              |
 | 09/03  | **No Class (Labor Day)**   |                               |               |              |
 | 09/05  | *Lab: Algorithms*            |                               |               |              |
@@ -22,7 +22,7 @@
 | 10/17  | *Lab: AI*                        |                               |               |              |
 | 10/22  | guest                      |                               | Research Paper - Topic              |              |
 | 10/24  | guest                      |                               |               |              |
-| 10/29  | AI                         |                               |               |              |
+| 10/29  | AI                         |   [[1]](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)                            |               |              |
 | 10/31  | *Debate*                     |                               |               |              |
 | 11/05  | Internet                   |                               |               |              |
 | 11/07  | guest                      |                               | A4            |              |
