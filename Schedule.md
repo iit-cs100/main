@@ -3,7 +3,7 @@
 | Date   | Topic                      | Readings                      | Due           | Lecture      |
 | ------ |----------------------------|-------------------------------|---------------|--------------|
 | 08/20  | What/Why CS?               |                               |               |              |
-| 08/22  | Lab: Computational Thinking|                               |               |              |
+| 08/22  | *Lab: Computational Thinking* |                               |               |              |
 | 08/27  | Functions and Algorithms   |                               |             |              |
 | 08/29  | *Lab: Algorithms*            |                               | A1              |              |
 | 09/03  | **No Class (Labor Day)**   |                               |               |              |
