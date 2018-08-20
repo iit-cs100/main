@@ -3,7 +3,7 @@
 | Date   | Topic                      | Readings                      | Due           | Lecture      |
 | ------ |----------------------------|-------------------------------|---------------|--------------|
 | 08/20  | What/Why CS?               |                               |               |              |
-| 08/22  | *Lab: Computational Thinking* | [[1]](http://robpatro.com/blog/?p=207) [[2]](https://www2.lawrence.edu/fast/krebsbak/Research/Publications/pdf/fecs15.pdf)                              |               |              |
+| 08/22  | *Lab: Computational Thinking* | [[1]](http://robpatro.com/blog/?p=207) [[2]](https://www.cs.cmu.edu/~wing/publications/Wing06.pdf)                              |               |              |
 | 08/27  | Functions and Algorithms   | 1.3-1.6 [here](http://interactivepython.org/runestone/static/pythonds/index.html)                              |             |              |
 | 08/29  | *Lab: Algorithms*            |                               | [A1](assignments/a1/)              |              |
 | 09/03  | **No Class (Labor Day)**   |                               |               |              |
