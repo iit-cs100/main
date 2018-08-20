@@ -8,7 +8,7 @@
 | 08/29  | *Lab: Algorithms*            |                               | [A1](assignments/a1/)              |              |
 | 09/03  | **No Class (Labor Day)**   |                               |               |              |
 | 09/05  | *Lab: Algorithms*            |                               |               |              |
-| 09/10  | Complexity                 |                               |               |              |
+| 09/10  | Complexity                 | Ch 7 [here](https://www.cs.hmc.edu/csforall/HowHardIsThisProblem/HowHardIsThisProblem.html)                              |               |              |
 | 09/12  | *Debate*                     |                               |               |              |
 | 09/17  | Complexity                 |                               |               |              |
 | 09/19  | *Lab: Complexity*            |                               |               |              |
