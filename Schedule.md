@@ -5,7 +5,7 @@
 | 08/20  | What/Why CS?               |                               |               |              |
 | 08/22  | *Lab: Computational Thinking* |                               |               |              |
 | 08/27  | Functions and Algorithms   |                               |             |              |
-| 08/29  | *Lab: Algorithms*            |                               | A1              |              |
+| 08/29  | *Lab: Algorithms*            |                               | [A1](assignments/a1/)              |              |
 | 09/03  | **No Class (Labor Day)**   |                               |               |              |
 | 09/05  | *Lab: Algorithms*            |                               |               |              |
 | 09/10  | Complexity                 |                               |               |              |
