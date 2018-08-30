@@ -11,7 +11,7 @@ Class repository for CS100 at Illinois Tech
 **Phone:** 312-567-5261  
 **Office Hours:** M/W 9:30 a.m. - 10:30 a.m.  
 **Office:** Stuart Hall 209C  
-**TA:**  	tbd  
+**TA:**  	Vairavan Murugappan (vmuruga1 at hawk), T/R 12:30-1:30 pm
 
 **See the [Schedule](Schedule.md) for a detailed list of readings and due dates.**
 
