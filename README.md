@@ -78,6 +78,6 @@ g. An ability to analyze the local and global impact of computing on individuals
 **Similar Courses:**
 
 1. [Stanford](https://web.stanford.edu/class/cs208e/)
-2. [Buffalo](https://cse.buffalo.edu/~rapaport/111F04/syl.html  
+2. [Buffalo](https://cse.buffalo.edu/~rapaport/111F04/syl.html)   
 3. [Central Michigan](https://www.cmich.edu/stemed/Documents/AP%20CSP%20Syllabus%20and%20Overview.pdf)
-4. [Grinnell](http://www.cs.grinnell.edu/~weinman/courses/CSC105/2015S/
+4. [Grinnell](http://www.cs.grinnell.edu/~weinman/courses/CSC105/2015S/)
