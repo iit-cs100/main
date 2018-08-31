@@ -21,7 +21,7 @@
 | 10/15  | AI                         |                               | A3            |              |
 | 10/17  | *Lab: AI*                        |                               |               |              |
 | 10/22  | guest                      |                               | Research Paper - Topic              |              |
-| 10/24  | guest                      |                               |               |              |
+| 10/24  | Career Services                      |                               |               |              |
 | 10/29  | AI                         |   [[1]](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)                            |               |              |
 | 10/31  | *Debate*                     |                               |               |              |
 | 11/05  | Internet                   |                               |               |              |
