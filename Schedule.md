@@ -7,7 +7,7 @@
 | 08/27  | Functions and Algorithms   | 1.3-1.6 [here](http://interactivepython.org/runestone/static/pythonds/index.html)                              |             |              [l03](lec/l03/main.ipynb)  |
 | 08/29  | *Lab: Algorithms*            |                               | [A1](assignments/a1/)              |       [l04](lec/l04/main.ipynb)       |
 | 09/03  | **No Class (Labor Day)**   |                               |               |              |
-| 09/05  | *Lab: Algorithms*            |                               |               |              |
+| 09/05  | *Lab: Algorithms*            |                               |               |     [l05](https://trinket.io/python/e0bbb853e7)         |
 | 09/10  | Complexity                 | Ch 7 [here](https://www.cs.hmc.edu/csforall/HowHardIsThisProblem/HowHardIsThisProblem.html)                              |               |              |
 | 09/12  | *Debate*                     |                               |               |              |
 | 09/17  | Complexity                 |                               |               |              |
