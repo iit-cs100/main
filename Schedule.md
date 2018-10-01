@@ -11,9 +11,9 @@
 | 09/10  | Complexity                 | Ch 7 [here](https://www.cs.hmc.edu/csforall/HowHardIsThisProblem/HowHardIsThisProblem.html)                              |               |              [l06](lec/l06/main.ipynb) |
 | 09/12  | *Debate: Privacy*                     | [[1]](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/) [[2]](https://www.theatlantic.com/technology/archive/2013/08/what-does-it-really-matter-if-companies-are-tracking-us-online/278692/)                              |               |              |
 | 09/17  | Complexity                 |                               |               |              [l07](lec/l07/main.ipynb) |
-| 09/19  | *Lab: Complexity*            |                               |               |              |
-| 09/24  | guest                       |                               | A2            |              |
-| 09/26  | *Debate*                     |                               |               |              |
+| 09/19  | *Lab: Complexity*            |                               |               |             [l08](lec/l08/main.ipynb) |
+| 09/24  | guest                       |                               | A2 (due 9/25)           |              |
+| 09/26  | *Debate: Cars*                     |  [[1]](https://news.stanford.edu/2017/05/22/stanford-scholars-researchers-discuss-key-ethical-questions-self-driving-cars-present/) [[2]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5343691/)                             |               |              |
 | 10/01  | Data                       |                               |               |              |
 | 10/03  | *Lab : Data*                 |                               |               |              |
 | 10/08  | **No Class (Fall Break)**  |                               |               |              |
