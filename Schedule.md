@@ -14,7 +14,7 @@
 | 09/19  | *Lab: Complexity*            |                               |               |             [l08](lec/l08/main.ipynb) |
 | 09/24  | guest                       |                               | A2 (due 9/25)           |              |
 | 09/26  | *Debate: Cars*                     |  [[1]](https://news.stanford.edu/2017/05/22/stanford-scholars-researchers-discuss-key-ethical-questions-self-driving-cars-present/) [[2]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5343691/)                             |               |              |
-| 10/01  | Data                       |                               |               |              |
+| 10/01  | Data                       |                               |               |              [l09](lec/l09/main.ipynb) |
 | 10/03  | *Lab : Data*                 |                               |               |              |
 | 10/08  | **No Class (Fall Break)**  |                               |               |              |
 | 10/10  | *Debate*                     |                               |               |              |
