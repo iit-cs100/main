@@ -17,7 +17,7 @@
 | 10/01  | Data                       |                               |               |              [l09](lec/l09/main.ipynb) |
 | 10/03  | *Lab : Data*                 |                               |               |              |
 | 10/08  | **No Class (Fall Break)**  |                               |               |              |
-| 10/10  | *Debate*                     |                               |               |              |
+| 10/10  | *Debate: Machine Bias*     | [[1]](http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/) [[2]](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)                              |               |              |
 | 10/15  | AI                         |                               | A3            |              |
 | 10/17  | *Lab: AI*                        |                               |               |              |
 | 10/22  | guest                      |                               | Research Paper - Topic              |              |
