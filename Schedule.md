@@ -14,10 +14,10 @@
 | 09/19  | *Lab: Complexity*            |                               |               |             [l08](lec/l08/main.ipynb) |
 | 09/24  | guest                       |                               | A2 (due 9/25)           |              |
 | 09/26  | *Debate: Cars*                     |  [[1]](https://news.stanford.edu/2017/05/22/stanford-scholars-researchers-discuss-key-ethical-questions-self-driving-cars-present/) [[2]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5343691/)                             |               |              |
-| 10/01  | Data                       |                               |               |              |
+| 10/01  | Data                       |                               |               |              [l09](lec/l09/main.ipynb) |
 | 10/03  | *Lab : Data*                 |                               |               |              |
 | 10/08  | **No Class (Fall Break)**  |                               |               |              |
-| 10/10  | *Debate*                     |                               |               |              |
+| 10/10  | *Debate: Machine Bias*     | [[1]](http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/) [[2]](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)                              |               |              |
 | 10/15  | AI                         |                               | A3            |              |
 | 10/17  | *Lab: AI*                        |                               |               |              |
 | 10/22  | guest                      |                               | Research Paper - Topic              |              |

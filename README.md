@@ -9,7 +9,7 @@ Class repository for CS100 at Illinois Tech
 **Meetings:** 11:25 - 12:40 pm M/W Pritzker Science Center 152  
 **E-mail:** culotta at cs.iit.edu  
 **Phone:** 312-567-5261  
-**Office Hours:** M/W 9:30 a.m. - 10:30 a.m.  
+**Office Hours:** M 2-3pm, W 1-2pm
 **Office:** Stuart Hall 209C  
 **TA:**  	Vairavan Murugappan (vmuruga1 at hawk), T/R 12:30-1:30 pm
 
