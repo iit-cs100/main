@@ -28,7 +28,7 @@
 | 11/07  | guest                      |                               |           |              |
 | 11/12  | Internet                   |                               |               |              |
 | 11/14  | *Lab: Internet*              |                               |               |              |
-| 11/19  | History of Computing       |                               |    A4              |              |
+| 11/19  | History of Computing       |                               |                  |              |
 | 11/21  | **No Class (Thanksgiving)**|                               |               |              |
-| 11/26  | Ethics                     |                               |               |              |
+| 11/26  | Ethics                     |                               | A4              |              |
 | 11/28  | *Debate*               |                               | Research Paper|              |
