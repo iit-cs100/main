@@ -30,5 +30,5 @@
 | 11/14  | *Lab: Internet*              |                               |               |              |
 | 11/19  | History of Computing       |                               |                  |              |
 | 11/21  | **No Class (Thanksgiving)**|                               |               |              |
-| 11/26  | Ethics                     |                               | A4              |              |
+| 11/26  | Ethics                     |                               | A4              |   [l13](lec/l13/main.ipynb)            |
 | 11/28  | *Debate*               |                               | Research Paper|              |
