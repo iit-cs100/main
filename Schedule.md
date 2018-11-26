@@ -19,16 +19,16 @@
 | 10/08  | **No Class (Fall Break)**  |                               |               |              |
 | 10/10  | *Debate: Machine Bias*     | [[1]](http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/) [[2]](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)                              |               |              |
 | 10/15  | AI                         |                               | A3            |           [l11](lec/l11/main.ipynb)   |
-| 10/17  | *Lab: AI*                        |                               |               |              |
+| 10/17  | *Lab: AI*                        |                               |               |         [l12](lec/l12/main.ipynb)      |
 | 10/22  | guest                      |                               | Research Paper - Topic              |              |
 | 10/24  | Career Services                      |                               |               |              |
 | 10/29  | AI                         |   [[1]](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)                            |               |              |
-| 10/31  | *Debate*                     |                               |               |              |
+| 10/31  | *Debate*                     |  [[1]](https://beyondlabels.ustiger.net/wp-content/uploads/2017/09/20170905-Workers_-Fear-Not-the-Robot-Apocalypse-WSJ.pdf) [[2]](http://cs.iit.edu/~culotta/robots.pdf) [[3]](http://cs.iit.edu/~culotta/robots2.pdf)                             |               |              |
 | 11/05  | Internet                   |                               |               |              |
-| 11/07  | guest                      |                               | A4            |              |
+| 11/07  | guest                      |                               |           |              |
 | 11/12  | Internet                   |                               |               |              |
 | 11/14  | *Lab: Internet*              |                               |               |              |
-| 11/19  | History of Computing       |                               |               |              |
+| 11/19  | History of Computing       |                               |                  |              |
 | 11/21  | **No Class (Thanksgiving)**|                               |               |              |
-| 11/26  | Ethics                     |                               |               |              |
+| 11/26  | Ethics                     |                               | A4              |              |
 | 11/28  | *Debate*               |                               | Research Paper|              |
